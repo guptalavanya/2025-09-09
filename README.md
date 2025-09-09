@@ -4,3 +4,5 @@
 - `pull`: `git pull origin main` will bring down code from the branch in the remote
 
 -`log`: shows you the history
+    - `log --online --graph`: shows you everything + add marker
+- `diff`: shows you differences from your last known git state
